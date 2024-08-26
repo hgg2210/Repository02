@@ -7,4 +7,8 @@ package com.hgg;
  * @version: 1.0
  */
 public class Test {
+    public static class Student{
+        private String name;
+        private int age;
+    }
 }
